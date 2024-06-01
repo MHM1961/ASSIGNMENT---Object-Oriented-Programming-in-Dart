@@ -1,0 +1,14 @@
+{
+    "name": "Alice",
+    "borrowedBooks": [
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "name": "1984",
+        "author": "George Orwell"
+      }
+    ]
+  }
+  
